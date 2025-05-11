@@ -7,15 +7,9 @@
 
 ---
 
+### 📊 Stats
+
 <p align="start">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorPaes-coder&theme=onedark&row=1&column=7" />
-</p>
-
----
-
-### 📊 Minhas estatísticas
-
-<p align="end">
   <img src="https://github-readme-stats.vercel.app/api?username=VitorPaes-coder&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true" />
 </p>
 
@@ -25,6 +19,10 @@
 
 <p align="end">
   <img src="https://streak-stats.demolab.com?user=VitorPaes-coder&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VitorPaes-coder&theme=onedark&row=1&column=7" />
 </p>
 
 ---
