@@ -5,18 +5,18 @@
   — Tyler, The Creator"
 </p>
 
-<div align='center'>
+<div>
  <p align="start">
-   <img src="https://github-readme-stats.vercel.app/api?username=VitorPaes-coder&show_icons=true&theme=darkhub&hide=prs,issues&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=VitorPaes-coder&show_icons=true&theme=onedark&hide=prs,issues&count_private=true" />
  </p>
 
  <p align="end">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPaes-coder&layout=compact&theme=darkhub" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPaes-coder&layout=compact&theme=onedark" />
  </p>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VitorPaes-coder&theme=darkhub" />
+  <img src="https://streak-stats.demolab.com?user=VitorPaes-coder&theme=onedark" />
 </p>
 
 <p align="center">
