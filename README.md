@@ -5,6 +5,8 @@
   — Tyler, The Creator"
 </p>
 
+---
+
 <div>
  <p align="start">
    <img src="https://github-readme-stats.vercel.app/api?username=VitorPaes-coder&show_icons=true&theme=onedark&hide=prs,issues&count_private=true" />
@@ -20,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorPaes-coder&theme=onedark&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VitorPaes-coder&theme=onedark&row=1&row=7" />
 </p>
 
 ---
